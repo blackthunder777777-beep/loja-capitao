@@ -893,6 +893,10 @@ a {
   box-shadow: var(--shadow);
 }
 
+.product-proof-band {
+  margin-top: 34px;
+}
+
 .featured-proof img {
   display: block;
   width: 100%;

@@ -1441,8 +1441,8 @@ a {
 
   .hero::before {
     background:
-      linear-gradient(180deg, rgba(5, 10, 7, 0.88), rgba(5, 10, 7, 0.92)),
-      url("/assets/hero-patriota.jpg") center / cover no-repeat;
+      linear-gradient(180deg, rgba(5, 10, 7, 0.58), rgba(5, 10, 7, 0.7)),
+      url("/assets/hero-patriota.jpg") center 42% / cover no-repeat;
   }
 
   .mobile-float-cta {
